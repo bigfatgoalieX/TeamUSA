@@ -1,0 +1,480 @@
+------ 2022-2023 Atlanta Hawks Roster Composition ------
+John Collins
+A.J. Griffin, Jr.
+Jalen Johnson
+Onyeka Okongwu
+De'Andre Hunter
+Tyrese Martin
+Trae Young
+Clint Capela
+Vit Krejci
+Bruno Fernando
+Dejounte Murray
+Saddiq Bey
+Garrison Mathews
+Aaron Holiday
+Bogdan Bogdanovic
+------ 2022-2023 Boston Celtics Roster Composition ------
+Robert Williams
+Jaylen Brown
+Payton Pritchard
+Grant Williams
+Marcus Smart
+Jayson Tatum
+Derrick White
+Malcolm Brogdon
+Mike Muscala
+Al Horford
+Luke Kornet
+Justin Champagnie
+Danilo Gallinari
+Blake Griffin
+Sam Hauser
+------ 2022-2023 Brooklyn Nets Roster Composition ------
+Cam Thomas
+Nicolas Claxton
+Day'Ron Sharpe
+Dorian Finney-Smith
+Ben Simmons
+Seth Curry
+Royce O'Neale
+Edmond Sumner
+Mikal Bridges
+Spencer Dinwiddie
+Cameron Johnson
+Patty Mills
+David Duke
+Joe Harris
+Yuta Watanabe
+------ 2022-2023 Charlotte Hornets Roster Composition ------
+LaMelo Ball
+James Bouknight
+Cody Martin
+Mark Williams
+P.J. Washington
+Nick Richards
+J.T. Thor
+Kai Jones
+Terry Rozier
+Svi Mykhailiuk
+Gordon Hayward
+Dennis Smith
+Kelly Oubre, Jr.
+Bryce McGowens
+Kobi Simmons
+------ 2022-2023 Chicago Bulls Roster Composition ------
+Coby White
+Ayo Dosunmu
+Dalen Terry
+Marko Simonovic
+Patrick Williams
+Zach LaVine
+Nikola Vucevic
+DeMar DeRozan
+Lonzo Ball
+Carlik Jones
+Javonte Green
+Patrick Beverley
+Andre Drummond
+Alex Caruso
+Derrick Jones
+------ 2022-2023 Cleveland Cavaliers Roster Composition ------
+Evan Mobley
+Isaac Okoro
+Dylan Windler
+Darius Garland
+Cedi Osman
+Jarrett Allen
+Caris LeVert
+Donovan Mitchell
+Danny Green
+Sam Merrill
+Raulzinho Neto
+Dean Wade
+Lamar Stevens
+Ricky Rubio
+Robin Lopez
+------ 2022-2023 Dallas Mavericks Roster Composition ------
+Josh Green
+Jaden Hardy
+Luka Doncic
+Dwight Powell
+Davis Bertans
+Markieff Morris
+Kyrie Irving
+Tim Hardaway Jr.
+Christian Wood
+JaVale McGee
+Reggie Bullock
+Maxi Kleber
+Theo Pinson
+Frank Ntilikina
+Justin Holiday
+------ 2022-2023 Denver Nuggets Roster Composition ------
+Zeke Nnaji
+Jamal Murray
+Christian Braun
+Nikola Jokic
+Vlatko Cancar
+Michael Porter, Jr.
+Peyton Watson
+Aaron Gordon
+Thomas Bryant
+Ish Smith
+Kentavious Caldwell-Pope
+Jeff Green
+DeAndre Jordan
+Bruce Brown, Jr.
+Reggie Jackson
+------ 2022-2023 Detroit Pistons Roster Composition ------
+Cade Cunningham
+Isaiah Livers
+Killian Hayes
+Jaden Ivey
+Jalen Duren
+Isaiah Stewart II
+Bojan Bogdanovic
+Cory Joseph
+Alec Burks
+Marvin Bagley III
+James Wiseman
+Hamidou Diallo
+R.J. Hampton
+Eugene Omoruyi
+Rodney McGruder
+------ 2022-2023 Golden State Warriors Roster Composition ------
+Patrick Baldwin, Jr.
+Stephen Curry
+Jordan Poole
+Jonathan Kuminga
+Moses Moody
+Klay Thompson
+Draymond Green
+Kevon Looney
+Ryan Rollins
+Gary Payton II
+Andrew Wiggins
+JaMychal Green
+Andre Iguodala
+Donte DiVincenzo
+Anthony Lamb
+------ 2022-2023 Houston Rockets Roster Composition ------
+Usman Garuba
+Jalen Green
+Josh Christopher
+Tari Eason
+Jabari Smith, Jr.
+K.J. Martin
+Alperen Sengun
+TyTy Washington, Jr.
+Frank Kaminsky
+Kevin Porter, Jr.
+Jae'sean Tate
+Boban Marjanovic
+Willie Cauley-Stein
+D.J. Augustin
+Daishen Nix
+------ 2022-2023 Indiana Pacers Roster Composition ------
+Chris Duarte
+Bennedict Mathurin
+Myles Turner
+Andrew Nembhard
+Isaiah Jackson
+George Hill
+Aaron Nesmith
+Daniel Theis
+Tyrese Haliburton
+Jalen Smith
+Buddy Hield
+Jordan Nwora
+James Johnson
+T.J. McConnell
+Oshae Brissett
+------ 2022-2023 Los Angeles Clippers Roster Composition ------
+Terance Mann
+B.J. Boston, Jr.
+Jason Preston
+Norman Powell
+Bones Hyland
+Paul George
+Mason Plumlee
+Ivica Zubac
+Marcus Morris
+Eric Gordon
+Amir Coffey
+Robert Covington
+Kawhi Leonard
+Nicolas Batum
+Russell Westbrook
+------ 2022-2023 Los Angeles Lakers Roster Composition ------
+Max Christie
+Malik Beasley
+Rui Hachimura
+Anthony Davis
+Jarred Vanderbilt
+D'Angelo Russell
+Mohamed Bamba
+Tristan Thompson
+Austin Reaves
+LeBron James
+Wenyen Gabriel
+Shaquille Harrison
+Lonnie Walker
+Dennis Schroder
+Troy Brown, Jr.
+------ 2022-2023 Memphis Grizzlies Roster Composition ------
+Ja Morant
+Jaren Jackson, Jr.
+Desmond Bane
+Brandon Clarke
+Dillon Brooks
+Ziaire Williams
+Jake LaRavia
+David Roddy
+Santi Aldama
+Xavier Tillman, Sr.
+Luke Kennard
+Steven Adams
+Tyus Jones
+Kenny Lofton, Jr.
+John Konchar
+------ 2022-2023 Miami Heat Roster Composition ------
+Bam Adebayo
+Nikola Jovic
+Tyler Herro
+Jimmy Butler
+Kyle Lowry
+Victor Oladipo
+Kevin Love
+Duncan Robinson
+Haywood Highsmith
+Max Strus
+Caleb Martin
+Gabe Vincent
+Omer Yurtseven
+Cody Zeller
+Udonis Haslem
+------ 2022-2023 Milwaukee Bucks Roster Composition ------
+Giannis Antetokounmpo
+MarJon Beauchamp
+Khris Middleton
+Grayson Allen
+Jrue Holiday
+Jae Crowder
+Bobby Portis
+Wesley Matthews
+Brook Lopez
+Goran Dragic
+Jevon Carter
+Pat Connaughton
+Thanasis Antetokounmpo
+Joe Ingles
+Meyers Leonard
+------ 2022-2023 Minnesota Timberwolves Roster Composition ------
+Jaylen Nowell
+Anthony Edwards
+Karl-Anthony Towns
+Josh Minott
+Wendell Moore, Jr.
+Jaden McDaniels
+Rudy Gobert
+Nickeil Alexander-Walker
+Mike Conley
+Taurean Prince
+Austin Rivers
+Naz Reid
+Nathan Knight
+Kyle Anderson
+Jordan McLaughlin
+------ 2022-2023 New Orleans Pelicans Roster Composition ------
+Dyson Daniels
+Zion Williamson
+Herb Jones
+Kira Lewis, Jr.
+Jaxson Hayes
+Trey Murphy III
+C.J. McCollum
+Josh Richardson
+Brandon Ingram
+Garrett Temple
+Larry Nance, Jr.
+Jonas Valanciunas
+Willy Hernangomez
+Jose Alvarado
+Naji Marshall
+------ 2022-2023 New York Knicks Roster Composition ------
+Obi Toppin
+R.J. Barrett
+Mitchell Robinson
+Quentin Grimes
+Miles McBride
+Immanuel Quickley
+Josh Hart
+Derrick Rose
+Evan Fournier
+Julius Randle
+DaQuan Jeffries
+Jalen Brunson
+Jericho Sims
+Isaiah Hartenstein
+Isaiah Roby
+------ 2022-2023 Oklahoma City Thunder Roster Composition ------
+Chet Holmgren
+Tre Mann
+Jaylin Williams
+Josh Giddey
+Jalen Williams
+Aleksej Pokusevski
+Ousmane Dieng
+Jeremiah Robinson-Earl
+Dario Saric
+Shai Gilgeous-Alexander
+Lindy Waters III
+Luguentz Dort
+Kenrich Williams
+Aaron Wiggins
+Isaiah Joe
+------ 2022-2023 Orlando Magic Roster Composition ------
+Caleb Houstan
+Jonathan Isaac
+Jalen Suggs
+Cole Anthony
+Paolo Banchero
+Franz Wagner
+Chuma Okeke
+Bol Bol
+Wendell Carter, Jr.
+Markelle Fultz
+Gary Harris
+Admiral Schofield
+Goga Bitadze
+Michael Carter-Williams
+Moe Wagner
+------ 2022-2023 Philadelphia Sixers Roster Composition ------
+Tyrese Maxey
+Jaden Springer
+Furkan Korkmaz
+Joel Embiid
+Tobias Harris
+Jalen McDaniels
+De'Anthony Melton
+James Harden
+Georges Niang
+Paul Reed, Jr.
+P.J. Tucker
+Danuel House
+Montrezl Harrell
+Dewayne Dedmon
+Shake Milton
+------ 2022-2023 Phoenix Suns Roster Composition ------
+Deandre Ayton
+Devin Booker
+Darius Bazley
+Chris Paul
+T.J. Warren
+Jock Landale
+Kevin Durant
+Torrey Craig
+Landry Shamet
+Cameron Payne
+Josh Okogie
+Damion Lee
+Terrence Ross
+Bismack Biyombo
+Ish Wainright
+------ 2022-2023 Portland Trail Blazers Roster Composition ------
+Nassir Little
+Shaedon Sharpe
+Anfernee Simons
+Damian Lillard
+Jabari Walker
+Jusuf Nurkic
+Matisse Thybulle
+Jerami Grant
+Justise Winslow
+Kevin Knox
+Cam Reddish
+Keon Johnson
+Nate Williams, Jr.
+Drew Eubanks
+Trendon Watford
+------ 2022-2023 Sacramento Kings Roster Composition ------
+Keegan Murray
+De'Aaron Fox
+Davion Mitchell
+Domantas Sabonis
+Kessler Edwards
+Kevin Huerter
+Trey Lyles
+Harrison Barnes
+Richaun Holmes
+Terence Davis
+Chimezie Metu
+P.J. Dozier
+Matt Dellavedova
+Malik Monk
+Alex Len
+------ 2022-2023 San Antonio Spurs Roster Composition ------
+Malaki Branham
+Blake Wesley
+Tre Jones
+Jeremy Sochan
+Keldon Johnson
+Devin Vassell
+Devonte' Graham
+Khem Birch
+Doug McDermott
+Romeo Langford
+Keita Bates-Diop
+Charles Bassey
+Sandro Mamukelashvili
+Gorgui Dieng
+Zach Collins
+------ 2022-2023 Toronto Raptors Roster Composition ------
+Malachi Flynn
+Scottie Barnes
+Dalano Banton
+Pascal Siakam
+OG Anunoby
+Christian Koloko
+Gary Trent, Jr.
+Precious Achiuwa
+Thaddeus Young
+Jakob Poeltl
+Joe Wieskamp
+Chris Boucher
+Otto Porter
+Fred VanVleet
+Will Barton
+------ 2022-2023 Utah Jazz Roster Composition ------
+Udoka Azubuike
+Walker Kessler
+Kelly Olynyk
+Jordan Clarkson
+Talen Horton-Tucker
+Lauri Markkanen
+Collin Sexton
+Juan Toscano-Anderson
+Ochai Agbaji
+Damian Jones
+Rudy Gay
+Vernon Carey, Jr.
+Simone Fontecchio
+Luka Samanic
+Kris Dunn
+------ 2022-2023 Washington Wizards Roster Composition ------
+Corey Kispert
+Deni Avdija
+Bradley Beal
+Johnny Davis
+Isaiah Todd
+Kyle Kuzma
+Kristaps Porzingis
+Monte Morris
+Daniel Gafford
+Kendrick Nunn
+Taj Gibson
+Jordan Goodwin
+Xavier Cooks
+Delon Wright
+Anthony Gill

@@ -1,0 +1,478 @@
+------ 2020-2021 Atlanta Hawks Roster Composition ------
+John Collins
+Cam Reddish
+Onyeka Okongwu
+Kevin Huerter
+De'Andre Hunter
+Trae Young
+Bruno Fernando
+Clint Capela
+Danilo Gallinari
+Tony Snell
+Lou Williams
+Kris Dunn
+Solomon Hill
+Bogdan Bogdanovic
+Brandon Goodwin
+------ 2020-2021 Boston Celtics Roster Composition ------
+Robert Williams
+Jaylen Brown
+Payton Pritchard
+Semi Ojeleye
+Grant Williams
+Jayson Tatum
+Romeo Langford
+Marcus Smart
+Aaron Nesmith
+Carsen Edwards
+Luke Kornet
+Evan Fournier
+Kemba Walker
+Tristan Thompson
+Jabari Parker
+------ 2020-2021 Brooklyn Nets Roster Composition ------
+Nicolas Claxton
+Landry Shamet
+James Harden
+Bruce Brown, Jr.
+Kevin Durant
+Alize Johnson
+Timothe Luwawu-Cabarrot
+Kyrie Irving
+Tyler Johnson
+Spencer Dinwiddie
+Blake Griffin
+Mike James
+Jeff Green
+Joe Harris
+DeAndre Jordan
+------ 2020-2021 Charlotte Hornets Roster Composition ------
+LaMelo Ball
+Vernon Carey, Jr.
+Cody Martin
+P.J. Washington
+Malik Monk
+Cody Zeller
+Devonte' Graham
+Miles Bridges
+Nick Richards
+Bismack Biyombo
+Brad Wanamaker
+Terry Rozier
+Gordon Hayward
+Caleb Martin
+Jalen McDaniels
+------ 2020-2021 Chicago Bulls Roster Composition ------
+Coby White
+Patrick Williams
+Denzel Valentine
+Lauri Markkanen
+Al-Farouq Aminu
+Tomas Satoransky
+Javonte Green
+Zach LaVine
+Daniel Theis
+Nikola Vucevic
+Troy Brown, Jr.
+Cristiano Felicio
+Garrett Temple
+Thaddeus Young
+Ryan Arcidiacono
+------ 2020-2021 Cleveland Cavaliers Roster Composition ------
+Collin Sexton
+Isaac Okoro
+Dylan Windler
+Darius Garland
+Cedi Osman
+Jarrett Allen
+Kevin Love
+Larry Nance, Jr.
+Isaiah Hartenstein
+Taurean Prince
+Damyean Dotson
+Dean Wade
+Mfiondu Kabengele
+Lamar Stevens
+Matt Dellavedova
+------ 2020-2021 Dallas Mavericks Roster Composition ------
+Jalen Brunson
+Tyrell Terry
+Josh Green
+Luka Doncic
+Dwight Powell
+Kristaps Porzingis
+Nicolo Melli
+Tim Hardaway Jr.
+Josh Richardson
+Willie Cauley-Stein
+J.J. Redick
+Dorian Finney-Smith
+Trey Burke
+Boban Marjanovic
+Maxi Kleber
+------ 2020-2021 Denver Nuggets Roster Composition ------
+Zeke Nnaji
+Jamal Murray
+Nikola Jokic
+Vlatko Cancar
+Michael Porter, Jr.
+Aaron Gordon
+JaVale McGee
+Will Barton
+Austin Rivers
+Bol Bol
+Paul Millsap
+Monte Morris
+P.J. Dozier
+JaMychal Green
+Facundo Campazzo
+------ 2020-2021 Detroit Pistons Roster Composition ------
+Sekou Doumbouya
+Killian Hayes
+Saddiq Bey
+Isaiah Stewart II
+Deividas Sirvydis
+Cory Joseph
+Dennis Smith
+Jerami Grant
+Rodney McGruder
+Hamidou Diallo
+Josh Jackson
+Jahlil Okafor
+Tyler Cook
+Wayne Ellington
+Mason Plumlee
+------ 2020-2021 Golden State Warriors Roster Composition ------
+Stephen Curry
+Jordan Poole
+James Wiseman
+Klay Thompson
+Draymond Green
+Eric Paschall
+Kevon Looney
+Alen Smailagic
+Kelly Oubre, Jr.
+Andrew Wiggins
+Kent Bazemore
+Juan Toscano-Anderson
+Damion Lee
+Gary Payton II
+Mychal Mulder
+------ 2020-2021 Houston Rockets Roster Composition ------
+K.J. Martin
+Kelly Olynyk
+D.J. Wilson
+Avery Bradley
+Dante Exum
+John Wall
+D.J. Augustin
+Christian Wood
+Kevin Porter, Jr.
+Jae'sean Tate
+Khyri Thomas
+Danuel House
+David Nwaba
+Sterling Brown
+Eric Gordon
+------ 2020-2021 Indiana Pacers Roster Composition ------
+Goga Bitadze
+Aaron Holiday
+Myles Turner
+Caris LeVert
+Domantas Sabonis
+T.J. Warren
+Malcolm Brogdon
+Doug McDermott
+Jeremy Lamb
+Kelan Martin
+Oshae Brissett
+Edmond Sumner
+T.J. McConnell
+Justin Holiday
+JaKarr Sampson
+------ 2020-2021 Los Angeles Clippers Roster Composition ------
+Terance Mann
+Daniel Oturu
+Luke Kennard
+Patrick Beverley
+Paul George
+Ivica Zubac
+Marcus Morris
+Rajon Rondo
+Yogi Ferrell
+Serge Ibaka
+Kawhi Leonard
+Nicolas Batum
+Patrick Patterson
+DeMarcus Cousins
+Reggie Jackson
+------ 2020-2021 Los Angeles Lakers Roster Composition ------
+Talen Horton-Tucker
+Kyle Kuzma
+Dennis Schroder
+Anthony Davis
+Alfonzo McKinnie
+Kentavious Caldwell-Pope
+LeBron James
+Wesley Matthews
+Ben McLemore
+Markieff Morris
+Jared Dudley
+Montrezl Harrell
+Andre Drummond
+Marc Gasol
+Alex Caruso
+------ 2020-2021 Memphis Grizzlies Roster Composition ------
+Ja Morant
+Jaren Jackson, Jr.
+Desmond Bane
+Brandon Clarke
+Dillon Brooks
+Xavier Tillman, Sr.
+Grayson Allen
+De'Anthony Melton
+Justise Winslow
+Jonas Valanciunas
+John Konchar
+Jontay Porter
+Tyus Jones
+Kyle Anderson
+Tim Frazier
+------ 2020-2021 Miami Heat Roster Composition ------
+Precious Achiuwa
+Bam Adebayo
+Tyler Herro
+KZ Okpala
+Jimmy Butler
+Andre Iguodala
+Trevor Ariza
+Goran Dragic
+Victor Oladipo
+Nemanja Bjelica
+Duncan Robinson
+Dewayne Dedmon
+Omer Yurtseven
+Kendrick Nunn
+Udonis Haslem
+------ 2020-2021 Milwaukee Bucks Roster Composition ------
+Giannis Antetokounmpo
+Donte DiVincenzo
+Jordan Nwora
+Sam Merrill
+Khris Middleton
+Jrue Holiday
+P.J. Tucker
+Bobby Portis
+Jeff Teague
+Brook Lopez
+Pat Connaughton
+Mamadi Diakite
+Thanasis Antetokounmpo
+Elijah Bryant
+Bryn Forbes
+------ 2020-2021 Minnesota Timberwolves Roster Composition ------
+Jaylen Nowell
+Karl-Anthony Towns
+Anthony Edwards
+Josh Okogie
+Jaden McDaniels
+Jarrett Culver
+Juancho Hernangomez
+Malik Beasley
+Jarred Vanderbilt
+Jake Layman
+Ricky Rubio
+D'Angelo Russell
+Ed Davis
+Naz Reid
+------ 2020-2021 New Orleans Pelicans Roster Composition ------
+Zion Williamson
+Kira Lewis, Jr.
+Jaxson Hayes
+Nickeil Alexander-Walker
+Didi Louzada
+James Johnson
+Eric Bledsoe
+Steven Adams
+Lonzo Ball
+Wesley Iwundu
+Brandon Ingram
+Josh Hart
+Willy Hernangomez
+Naji Marshall
+Wenyen Gabriel
+------ 2020-2021 New York Knicks Roster Composition ------
+Mitchell Robinson
+R.J. Barrett
+Frank Ntilikina
+Kevin Knox
+Obi Toppin
+Immanuel Quickley
+Derrick Rose
+Nerlens Noel
+Julius Randle
+Reggie Bullock
+Alec Burks
+Taj Gibson
+Norvel Pelle
+Elfrid Payton
+Luca Vildoza
+------ 2020-2021 Oklahoma City Thunder Roster Composition ------
+Aleksej Pokusevski
+Theo Maledon
+Darius Bazley
+Al Horford
+Ty Jerome
+Kenrich Williams
+Shai Gilgeous-Alexander
+Tony Bradley
+Svi Mykhailiuk
+Isaiah Roby
+Charlie Brown, Jr.
+Gabriel Deck
+Luguentz Dort
+Mike Muscala
+Moses Brown
+------ 2020-2021 Orlando Magic Roster Composition ------
+Cole Anthony
+Jonathan Isaac
+Mohamed Bamba
+Chuma Okeke
+Markelle Fultz
+Terrence Ross
+Wendell Carter, Jr.
+R.J. Hampton
+Otto Porter
+James Ennis
+Gary Harris
+Michael Carter-Williams
+Dwayne Bacon
+Moe Wagner
+Ignas Brazdeikis
+------ 2020-2021 Philadelphia Sixers Roster Composition ------
+Furkan Korkmaz
+Ben Simmons
+Joel Embiid
+Isaiah Joe
+Tyrese Maxey
+Matisse Thybulle
+Danny Green
+George Hill
+Seth Curry
+Tobias Harris
+Mike Scott
+Shake Milton
+Paul Reed, Jr.
+Dwight Howard
+Anthony Tolliver
+------ 2020-2021 Phoenix Suns Roster Composition ------
+Deandre Ayton
+Devin Booker
+Jalen Smith
+Mikal Bridges
+Cameron Johnson
+Dario Saric
+Chris Paul
+Jevon Carter
+Abdel Nader
+Torrey Craig
+Frank Kaminsky
+Cameron Payne
+Jae Crowder
+Langston Galloway
+E'Twaun Moore
+------ 2020-2021 Portland Trail Blazers Roster Composition ------
+Nassir Little
+C.J. McCollum
+C.J. Elleby
+Anfernee Simons
+Damian Lillard
+Zach Collins
+Enes Freedom
+Norman Powell
+Jusuf Nurkic
+Robert Covington
+Harry Giles
+Carmelo Anthony
+Rondae Hollis-Jefferson
+Derrick Jones
+------ 2020-2021 Sacramento Kings Roster Composition ------
+De'Aaron Fox
+Marvin Bagley III
+Tyrese Haliburton
+Justin James
+Jahmi'us Ramsey
+Robert Woodard II
+Maurice Harkless
+Terence Davis
+Delon Wright
+Harrison Barnes
+Buddy Hield
+Richaun Holmes
+Hassan Whiteside
+Chimezie Metu
+Damian Jones
+------ 2020-2021 San Antonio Spurs Roster Composition ------
+Dejounte Murray
+Derrick White
+Tre Jones
+Keldon Johnson
+Luka Samanic
+Lonnie Walker
+Devin Vassell
+Jakob Poeltl
+DeMar DeRozan
+DaQuan Jeffries
+Patty Mills
+Rudy Gay
+Drew Eubanks
+Trey Lyles
+Gorgui Dieng
+------ 2020-2021 Toronto Raptors Roster Composition ------
+Malachi Flynn
+Pascal Siakam
+OG Anunoby
+Rodney Hood
+Gary Trent, Jr.
+Kyle Lowry
+DeAndre' Bembry
+Paul Watson
+Freddie Gillespie
+Chris Boucher
+Khem Birch
+Stanley Johnson
+Aron Baynes
+Fred VanVleet
+Yuta Watanabe
+------ 2020-2021 Utah Jazz Roster Composition ------
+Udoka Azubuike
+Miye Oni
+Rudy Gobert
+Elijah Hughes
+Donovan Mitchell
+Matt Thomas
+Jordan Clarkson
+Mike Conley
+Georges Niang
+Bojan Bogdanovic
+Ersan Ilyasova
+Royce O'Neale
+Juwan Morgan
+Joe Ingles
+Derrick Favors
+------ 2020-2021 Washington Wizards Roster Composition ------
+Deni Avdija
+Bradley Beal
+Rui Hachimura
+Isaac Bonga
+Davis Bertans
+Daniel Gafford
+Russell Westbrook
+Chandler Hutchison
+Thomas Bryant
+Caleb Homesley
+Raulzinho Neto
+Ish Smith
+Robin Lopez
+Anthony Gill
+Alex Len

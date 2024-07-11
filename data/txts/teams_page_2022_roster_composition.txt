@@ -1,0 +1,480 @@
+------ 2021-2022 Atlanta Hawks Roster Composition ------
+John Collins
+Jalen Johnson
+Onyeka Okongwu
+Kevin Huerter
+De'Andre Hunter
+Trae Young
+Clint Capela
+Lou Williams
+Danilo Gallinari
+Kevin Knox
+Delon Wright
+Timothe Luwawu-Cabarrot
+Skylar Mays
+Bogdan Bogdanovic
+Gorgui Dieng
+------ 2021-2022 Boston Celtics Roster Composition ------
+Robert Williams
+Jaylen Brown
+Payton Pritchard
+Aaron Nesmith
+Grant Williams
+Marcus Smart
+Jayson Tatum
+Derrick White
+Al Horford
+Daniel Theis
+Luke Kornet
+Nik Stauskas
+Juwan Morgan
+Malik Fitts
+Sam Hauser
+------ 2021-2022 Brooklyn Nets Roster Composition ------
+Cam Thomas
+Nicolas Claxton
+Day'Ron Sharpe
+Andre Drummond
+Bruce Brown, Jr.
+Ben Simmons
+Seth Curry
+Kevin Durant
+Kessler Edwards
+Patty Mills
+Kyrie Irving
+Goran Dragic
+Blake Griffin
+LaMarcus Aldridge
+Joe Harris
+------ 2021-2022 Charlotte Hornets Roster Composition ------
+Cody Martin
+P.J. Washington
+LaMelo Ball
+James Bouknight
+Miles Bridges
+Nick Richards
+J.T. Thor
+Kai Jones
+Terry Rozier
+Montrezl Harrell
+Gordon Hayward
+Mason Plumlee
+Isaiah Thomas
+Kelly Oubre, Jr.
+Jalen McDaniels
+------ 2021-2022 Chicago Bulls Roster Composition ------
+Coby White
+Ayo Dosunmu
+Patrick Williams
+Marko Simonovic
+Zach LaVine
+DeMar DeRozan
+Lonzo Ball
+Nikola Vucevic
+Troy Brown, Jr.
+Derrick Jones
+Tristan Thompson
+Javonte Green
+Alex Caruso
+Matt Thomas
+Tony Bradley
+------ 2021-2022 Cleveland Cavaliers Roster Composition ------
+Isaac Okoro
+Evan Mobley
+Collin Sexton
+Dylan Windler
+Darius Garland
+Cedi Osman
+Lauri Markkanen
+Jarrett Allen
+Kevin Love
+Caris LeVert
+Rajon Rondo
+Moses Brown
+Lamar Stevens
+Ed Davis
+Dean Wade
+------ 2021-2022 Dallas Mavericks Roster Composition ------
+Jalen Brunson
+Josh Green
+Luka Doncic
+Davis Bertans
+Spencer Dinwiddie
+Dwight Powell
+Tim Hardaway Jr.
+Dorian Finney-Smith
+Trey Burke
+Reggie Bullock
+Boban Marjanovic
+Maxi Kleber
+Frank Ntilikina
+Sterling Brown
+Marquese Chriss
+------ 2021-2022 Denver Nuggets Roster Composition ------
+Zeke Nnaji
+Bones Hyland
+Jamal Murray
+Nikola Jokic
+Vlatko Cancar
+Michael Porter, Jr.
+Aaron Gordon
+Bryn Forbes
+Will Barton
+Austin Rivers
+Monte Morris
+JaMychal Green
+Jeff Green
+DeMarcus Cousins
+Facundo Campazzo
+------ 2021-2022 Detroit Pistons Roster Composition ------
+Cade Cunningham
+Isaiah Livers
+Killian Hayes
+Saddiq Bey
+Isaiah Stewart II
+Jerami Grant
+Marvin Bagley III
+Hamidou Diallo
+Cory Joseph
+Kelly Olynyk
+Rodney McGruder
+Carsen Edwards
+Frank Jackson
+Luka Garza
+Saben Lee
+------ 2021-2022 Golden State Warriors Roster Composition ------
+Stephen Curry
+Jordan Poole
+James Wiseman
+Jonathan Kuminga
+Moses Moody
+Klay Thompson
+Draymond Green
+Kevon Looney
+Andrew Wiggins
+Andre Iguodala
+Juan Toscano-Anderson
+Damion Lee
+Gary Payton II
+Nemanja Bjelica
+Otto Porter
+------ 2021-2022 Houston Rockets Roster Composition ------
+Josh Christopher
+Jalen Green
+Usman Garuba
+K.J. Martin
+Alperen Sengun
+Bruno Fernando
+John Wall
+Dennis Schroder
+Christian Wood
+Kevin Porter, Jr.
+Jae'sean Tate
+David Nwaba
+Garrison Mathews
+Daishen Nix
+Eric Gordon
+------ 2021-2022 Indiana Pacers Roster Composition ------
+Goga Bitadze
+Chris Duarte
+Myles Turner
+Isaiah Jackson
+T.J. Warren
+Ricky Rubio
+Tyrese Haliburton
+Jalen Smith
+Malcolm Brogdon
+Buddy Hield
+Lance Stephenson
+Terry Taylor
+Duane Washington, Jr.
+T.J. McConnell
+Oshae Brissett
+------ 2021-2022 Los Angeles Clippers Roster Composition ------
+Terance Mann
+B.J. Boston, Jr.
+Jason Preston
+Luke Kennard
+Rodney Hood
+Norman Powell
+Robert Covington
+Paul George
+Ivica Zubac
+Marcus Morris
+Amir Coffey
+Kawhi Leonard
+Nicolas Batum
+Isaiah Hartenstein
+Reggie Jackson
+------ 2021-2022 Los Angeles Lakers Roster Composition ------
+Talen Horton-Tucker
+Russell Westbrook
+Anthony Davis
+Avery Bradley
+Kent Bazemore
+Austin Reaves
+LeBron James
+Wenyen Gabriel
+Dwight Howard
+Wayne Ellington
+Carmelo Anthony
+Malik Monk
+D.J. Augustin
+Stanley Johnson
+Kendrick Nunn
+------ 2021-2022 Memphis Grizzlies Roster Composition ------
+Ja Morant
+Jaren Jackson, Jr.
+Desmond Bane
+Brandon Clarke
+Dillon Brooks
+Ziaire Williams
+Santi Aldama
+Xavier Tillman, Sr.
+De'Anthony Melton
+Steven Adams
+Jarrett Culver
+Kyle Anderson
+Tyus Jones
+Killian Tillie
+John Konchar
+------ 2021-2022 Miami Heat Roster Composition ------
+Bam Adebayo
+Tyler Herro
+Jimmy Butler
+Kyle Lowry
+Victor Oladipo
+Markieff Morris
+P.J. Tucker
+Duncan Robinson
+Haywood Highsmith
+Max Strus
+Caleb Martin
+Gabe Vincent
+Dewayne Dedmon
+Omer Yurtseven
+Udonis Haslem
+------ 2021-2022 Milwaukee Bucks Roster Composition ------
+Giannis Antetokounmpo
+Jordan Nwora
+Khris Middleton
+Grayson Allen
+Jrue Holiday
+Serge Ibaka
+Bobby Portis
+George Hill
+Wesley Matthews
+Rayjon Tucker
+Brook Lopez
+Jevon Carter
+Pat Connaughton
+Thanasis Antetokounmpo
+Luca Vildoza
+------ 2021-2022 Minnesota Timberwolves Roster Composition ------
+Jaylen Nowell
+Karl-Anthony Towns
+Anthony Edwards
+Josh Okogie
+Leandro Bolmaro
+Jaden McDaniels
+Malik Beasley
+Jarred Vanderbilt
+Patrick Beverley
+Jake Layman
+D'Angelo Russell
+Taurean Prince
+Greg Monroe
+Naz Reid
+Jordan McLaughlin
+------ 2021-2022 New Orleans Pelicans Roster Composition ------
+Herb Jones
+Zion Williamson
+Kira Lewis, Jr.
+Jaxson Hayes
+Trey Murphy III
+C.J. McCollum
+Tony Snell
+Devonte' Graham
+Brandon Ingram
+Garrett Temple
+Larry Nance, Jr.
+Jonas Valanciunas
+Willy Hernangomez
+Jose Alvarado
+Naji Marshall
+------ 2021-2022 New York Knicks Roster Composition ------
+Obi Toppin
+R.J. Barrett
+Mitchell Robinson
+Quentin Grimes
+Miles McBride
+Immanuel Quickley
+Derrick Rose
+Cam Reddish
+Evan Fournier
+Nerlens Noel
+Julius Randle
+Kemba Walker
+Alec Burks
+Ryan Arcidiacono
+Taj Gibson
+------ 2021-2022 Oklahoma City Thunder Roster Composition ------
+Tre Mann
+Josh Giddey
+Aleksej Pokusevski
+Vit Krejci
+Darius Bazley
+Theo Maledon
+Jeremiah Robinson-Earl
+Kenrich Williams
+Ty Jerome
+Derrick Favors
+Shai Gilgeous-Alexander
+Isaiah Roby
+Aaron Wiggins
+Luguentz Dort
+Mike Muscala
+------ 2021-2022 Orlando Magic Roster Composition ------
+Jonathan Isaac
+Jalen Suggs
+Cole Anthony
+Mohamed Bamba
+Franz Wagner
+Chuma Okeke
+Markelle Fultz
+Bol Bol
+Terrence Ross
+Wendell Carter, Jr.
+R.J. Hampton
+Gary Harris
+Moe Wagner
+Robin Lopez
+Devin Cannady
+------ 2021-2022 Philadelphia Sixers Roster Composition ------
+Furkan Korkmaz
+Charles Bassey
+Joel Embiid
+Isaiah Joe
+Tyrese Maxey
+Jaden Springer
+Matisse Thybulle
+Tobias Harris
+Danny Green
+James Harden
+Paul Millsap
+Georges Niang
+Paul Reed, Jr.
+Shake Milton
+DeAndre Jordan
+------ 2021-2022 Phoenix Suns Roster Composition ------
+Deandre Ayton
+Devin Booker
+Mikal Bridges
+Cameron Johnson
+Dario Saric
+Aaron Holiday
+Chris Paul
+Torrey Craig
+Landry Shamet
+JaVale McGee
+Cameron Payne
+Jae Crowder
+Elfrid Payton
+Bismack Biyombo
+Ish Wainright
+------ 2021-2022 Portland Trail Blazers Roster Composition ------
+C.J. Elleby
+Nassir Little
+Anfernee Simons
+Damian Lillard
+Greg Brown III
+Jusuf Nurkic
+Didi Louzada
+Eric Bledsoe
+Justise Winslow
+Joe Ingles
+Elijah Hughes
+Josh Hart
+Keon Johnson
+Ben McLemore
+Trendon Watford
+------ 2021-2022 Sacramento Kings Roster Composition ------
+De'Aaron Fox
+Davion Mitchell
+Josh Jackson
+Domantas Sabonis
+Maurice Harkless
+Donte DiVincenzo
+Jeremy Lamb
+Trey Lyles
+Justin Holiday
+Harrison Barnes
+Richaun Holmes
+Terence Davis
+Chimezie Metu
+Alex Len
+Damian Jones
+------ 2021-2022 San Antonio Spurs Roster Composition ------
+Dejounte Murray
+Tre Jones
+Keldon Johnson
+Joshua Primo
+Lonnie Walker
+Devin Vassell
+Romeo Langford
+Josh Richardson
+Jakob Poeltl
+Doug McDermott
+Keita Bates-Diop
+Joe Wieskamp
+Devontae Cacok
+Jock Landale
+Zach Collins
+------ 2021-2022 Toronto Raptors Roster Composition ------
+Malachi Flynn
+Scottie Barnes
+Dalano Banton
+Pascal Siakam
+OG Anunoby
+Gary Trent, Jr.
+Precious Achiuwa
+Thaddeus Young
+Isaac Bonga
+Fred VanVleet
+Armoni Brooks
+Chris Boucher
+Khem Birch
+Svi Mykhailiuk
+Yuta Watanabe
+------ 2021-2022 Utah Jazz Roster Composition ------
+Udoka Azubuike
+Rudy Gobert
+Jared Butler
+Donovan Mitchell
+Juancho Hernangomez
+Jordan Clarkson
+Mike Conley
+Nickeil Alexander-Walker
+Eric Paschall
+Bojan Bogdanovic
+Rudy Gay
+Danuel House
+Trent Forrest
+Royce O'Neale
+Hassan Whiteside
+------ 2021-2022 Washington Wizards Roster Composition ------
+Corey Kispert
+Deni Avdija
+Bradley Beal
+Rui Hachimura
+Isaiah Todd
+Kentavious Caldwell-Pope
+Kyle Kuzma
+Vernon Carey, Jr.
+Kristaps Porzingis
+Daniel Gafford
+Ish Smith
+Thomas Bryant
+Anthony Gill
+Tomas Satoransky
+Raulzinho Neto
